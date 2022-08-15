@@ -29,6 +29,13 @@
     "webpack-cli": "^4.10.0"
   },
   "dependencies": {
-    "bootstrap": "^5.2.0"
+    "bootstrap": "^4.6.0",
+    "axios": "^0.21.1",
+    "i18next": "^19.9.0",
+    "jquery": "^3.5.1",
+    "lodash": "^4.17.20",
+    "on-change": "^2.2.3",
+    "popper.js": "^1.16.1",
+    "yup": "^0.32.8"
   }
 }
